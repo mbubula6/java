@@ -1,5 +1,5 @@
 public class Piec {
-    static public void main( String [] args ) {
+    public static void main( String [] args ) {
         double pokojJedenSzerokosc = 3;
         double pokojJedenDlugosc = 4;
 
