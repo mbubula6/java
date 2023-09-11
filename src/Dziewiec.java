@@ -1,5 +1,5 @@
 public class Dziewiec {
-    static public void main( String [] args ) {
+    public static void main( String [] args ) {
         String name = "Adam Kowalski";
         int age = 99;
         double annualPay = 100000.0;
