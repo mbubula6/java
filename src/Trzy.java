@@ -1,5 +1,5 @@
 public class Trzy {
-    static public void main(String [] args) {
+    public static void main(String [] args) {
         System.out.println("   *\n  ***\n *****\n*******\n *****\n  ***\n   *");
     }
 }
