@@ -1,3 +1,5 @@
+package zadania1;
+
 import java.util.Scanner;
 public class Dwanascie {
     public static void main( String [] args) {

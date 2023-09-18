@@ -1,3 +1,5 @@
+package zadania1;
+
 public class Dwa {
     public static void main(String [] args) {
         //11.09.2023

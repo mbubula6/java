@@ -1,3 +1,5 @@
+package zadania1;
+
 public class Siedem {
     public static void main( String [] args ) {
         double sprzedazRegionMazowieckiProcent = 0.62;

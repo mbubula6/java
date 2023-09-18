@@ -1,3 +1,5 @@
+package zadania1;
+
 public class Cztery  {
     public static void main( String [] args ) {
         char letter;

@@ -1,4 +1,6 @@
-public class Szesc {
+package zadania1;
+
+public class Piec {
     public static void main( String [] args ) {
         double pokojJedenSzerokosc = 3;
         double pokojJedenDlugosc = 4;
@@ -19,11 +21,8 @@ public class Szesc {
 
         double powierzchniaCalkowita = pokojJedenWymiary * liczbaPokoiJeden + pokojDwaWymiary * liczbaPokoiDwa +
                 pokojTrzyWymiary * liczbaPokoiTrzy;
-        int liczbaOsob = 4;
-        double powierzchniaNaOsobe = powierzchniaCalkowita / liczbaOsob;
 
-        System.out.println("Powierzchnia całkowita to: " + powierzchniaCalkowita +
-                "\nPowierzchnia na osobę to: " + powierzchniaNaOsobe );
+        System.out.println("Powierzchnia całkowita to: " + powierzchniaCalkowita);
 
     }
 }

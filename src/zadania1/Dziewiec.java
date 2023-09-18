@@ -1,3 +1,5 @@
+package zadania1;
+
 public class Dziewiec {
     public static void main( String [] args ) {
         String name = "Adam Kowalski";

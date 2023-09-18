@@ -1,3 +1,5 @@
+package zadania1;
+
 public class NajlepszeGry {
 
     public static void main(String[] args) {
